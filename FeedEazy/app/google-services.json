@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321119541147",
+    "project_id": "feedeazy",
+    "storage_bucket": "feedeazy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321119541147:android:16fe0b289e42a1e153b33e",
+        "android_client_info": {
+          "package_name": "com.example.feedeazy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321119541147-7oug7hre0l8jdi9tk492j1ddr77kqdqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDycztoMiPek1n12WKO1pe7_10pN-R0GLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321119541147-7oug7hre0l8jdi9tk492j1ddr77kqdqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

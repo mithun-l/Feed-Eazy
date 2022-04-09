@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Feed Eazy</string>
+
+
+    <string-array name="usercategory">
+        <item>---Select Category---</item>
+        <item>Student</item>
+        <item>Staff</item>
+    </string-array>
+
+    <string-array name="staffrole">
+        <item>---Select Role---</item>
+        <item>Cashier</item>
+        <item>Food Counter</item>
+    </string-array>
+
+
+</resources>
